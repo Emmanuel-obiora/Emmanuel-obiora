@@ -69,3 +69,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-obiora&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emmanuel-obiora&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
