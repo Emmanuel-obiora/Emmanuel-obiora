@@ -70,13 +70,14 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 26 November 2022
+From: 24 November 2022 - To: 27 November 2022
 
-Total Time: 2 hrs 55 mins
+Total Time: 5 hrs 39 mins
 
-JavaScript   2 hrs 7 mins    >>>>>>>>>>>>>>>>>>-------   72.70 %
-CSS          33 mins         >>>>>--------------------   19.10 %
-HTML         14 mins         >>-----------------------   08.20 %
+JavaScript   3 hrs 6 mins    >>>>>>>>>>>>>>-----------   54.74 %
+CSS          2 hrs 16 mins   >>>>>>>>>>---------------   40.17 %
+HTML         14 mins         >------------------------   04.23 %
+Markdown     2 mins          -------------------------   00.86 %
 ```
 
 <!--END_SECTION:waka-->
