@@ -32,7 +32,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring technologies in developing the web i.e React JS.
 
 - :zap: In my free time, I solve problems on codewars, frontendmentor page and read technical articles.
 
