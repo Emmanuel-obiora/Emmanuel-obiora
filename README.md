@@ -70,14 +70,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 28 November 2022
-
-Total Time: 8 hrs 20 mins
-
-CSS          4 hrs 17 mins   >>>>>>>>>>>>>------------   51.55 %
-JavaScript   3 hrs 45 mins   >>>>>>>>>>>--------------   44.99 %
-HTML         14 mins         >------------------------   02.87 %
-Markdown     2 mins          -------------------------   00.59 %
+CSS          5 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.30 %
+JavaScript   4 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.38 %
+Markdown     57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+JSON         48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+HTML         38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
