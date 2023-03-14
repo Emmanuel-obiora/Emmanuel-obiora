@@ -34,7 +34,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :seedling: Exploring technologies in frontend web development i.e Ruby on Rails.
 
-- :zap: In my free time, I solve problems on codewars, frontendmentor challenge and read technical articles.
+- :zap: In my free time, I solve problems on codewars, frontendmentor and read technical articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obiora-emmanuel-b4935616a/)
 
