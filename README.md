@@ -66,12 +66,12 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   9 hrs 59 mins   ██████████████▒░░░░░░░░░░   57.09 %
-SCSS         4 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-CSS          2 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-JSON         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-HTML         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JavaScript   10 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.19 %
+SCSS         4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+CSS          2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+JSON         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+HTML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+TypeScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
