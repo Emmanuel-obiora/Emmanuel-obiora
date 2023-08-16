@@ -66,8 +66,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   14 hrs 54 mins  ██████████████████▒░░░░░░   73.76 %
-SCSS         5 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+JavaScript   24 hrs 38 mins  ████████████████████░░░░░   79.78 %
+SCSS         6 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
